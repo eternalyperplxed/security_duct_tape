@@ -31,9 +31,12 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  eternalyperplxed
 
 # Build settings
-theme: minima
+theme: jekyll-theme-potato-hacker
+theme_base: "dark"
 plugins:
   - jekyll-feed
+
+blog: on
 
 # Exclude from processing.
 # The following items will not be processed, by default.
