@@ -31,7 +31,8 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  eternalyperplxed
 
 # Build settings
-theme: jekyll-theme-potato-hacker
+remote_theme: luxedo/jekyll-theme-potato-hacker
+#theme: jekyll-theme-potato-hacker
 theme_base: "dark"
 plugins:
   - jekyll-feed
